@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/sumit/AndroidStudioProjects/openCV_intergration/openCV/.cxx/Debug/4so482x6/arm64-v8a'
+ninja: no work to do.
